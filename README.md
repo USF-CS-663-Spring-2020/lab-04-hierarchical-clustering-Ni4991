@@ -1,3 +1,6 @@
+Name: Ni Luo
+Email: nluo@dons.usfca.edu
+
 # CS663 Lab 04 - Hierarchical
 
 Datasets for this lab are:
